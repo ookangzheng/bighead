@@ -1,0 +1,2 @@
+Screen Orientation Script
+https://github.com/gbenvenuti/cordova-plugin-screen-orientation
